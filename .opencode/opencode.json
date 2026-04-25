@@ -2,7 +2,11 @@
     "$schema": "https://opencode.ai/config.json",
     "plugin": [
         "opencode-google-antigravity-auth",
-        "@tarquinen/opencode-dcp@latest"
+        "@tarquinen/opencode-dcp@latest",
+        "@mohak34/opencode-notifier@latest",
+        "opencode-conductor-plugin",
+        "octto",
+        "@plannotator/opencode@latest"
     ],
     "mcp": {
         "chrome-devtools": {
@@ -33,3 +37,9 @@
         }
     }
 }
+// opencode plugin @tarquinen/opencode-dcp@latest
+// github:JRedeker/opencode-morph-fast-apply
+// opencode-background-agents
+// opencode-workspace
+// oh-my-opencode 
+// opencode-supermemory
