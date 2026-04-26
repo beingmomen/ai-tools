@@ -6,7 +6,9 @@
         "@mohak34/opencode-notifier@latest",
         "opencode-conductor-plugin",
         "octto",
-        "@plannotator/opencode@latest"
+        "@plannotator/opencode@latest",
+        "oh-my-opencode",
+        "opencode-background-agents",
     ],
     "mcp": {
         "chrome-devtools": {
@@ -37,9 +39,3 @@
         }
     }
 }
-// opencode plugin @tarquinen/opencode-dcp@latest
-// github:JRedeker/opencode-morph-fast-apply
-// opencode-background-agents
-// opencode-workspace
-// oh-my-opencode 
-// opencode-supermemory
