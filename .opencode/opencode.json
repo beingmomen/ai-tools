@@ -8,7 +8,7 @@
         "octto",
         "@plannotator/opencode@latest",
         "oh-my-opencode",
-        "opencode-background-agents",
+        "opencode-background-agents"
     ],
     "mcp": {
         "chrome-devtools": {
